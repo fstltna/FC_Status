@@ -6,10 +6,10 @@ You will need to install the following Perl modules:
 
 
 
-  * cpan -i IO::Socket::PortState qw(check_ports);
-  * cpan -i Email::Simple;
-  * cpan -i Email::Simple::Creator;
-  * cpan -i Email::Sender::Simple qw(sendmail);
+  * cpan -i IO::Socket::PortState
+  * cpan -i Email::Simple
+  * cpan -i Email::Simple::Creator
+  * cpan -i Email::Sender::Simple
 
 Create a crontab entry like this:
 
