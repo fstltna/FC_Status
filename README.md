@@ -2,7 +2,7 @@
 Checks the First Class server's port to verify it is accepting connections
 
 
-You will need to install the following Perl modules:
+You will need to install the required Perl modules:
 
     ./installdeps.pl
 
