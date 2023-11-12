@@ -4,12 +4,7 @@ Checks the First Class server's port to verify it is accepting connections
 
 You will need to install the following Perl modules:
 
-
-
-  * cpan -i IO::Socket::PortState
-  * cpan -i Email::Simple
-  * cpan -i Email::Simple::Creator
-  * cpan -i Email::Sender::Simple
+    ./installdeps.pl
 
 Create a crontab entry like this:
 
